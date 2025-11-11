@@ -52,4 +52,5 @@ elif light_time >= 60:
     print(f"Light takes {light_time/60:.2f} minutes to reach your planet!")
 else:
     print(f"Light takes {light_time:.2f} seconds to reach your planet!")
+
 print()
